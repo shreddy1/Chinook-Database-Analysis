@@ -1,1 +1,1 @@
-# Chinook-Database-Analysis
+# Chinook Database Analysis
